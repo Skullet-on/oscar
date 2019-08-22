@@ -2,4 +2,4 @@
 /build
 
 /server/node_modules
-/sercer/.env
+/server/.env
