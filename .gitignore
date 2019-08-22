@@ -1,3 +1,5 @@
 /client/node_modules
 /build
 
+/server/node_modules
+/sercer/.env
