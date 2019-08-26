@@ -22,5 +22,6 @@ module.exports = {
   ],
   rules: {
     "no-plusplus": "off",
+    "arrow-parens": "off",
   },
 };
