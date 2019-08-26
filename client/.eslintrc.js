@@ -22,6 +22,5 @@ module.exports = {
   ],
   rules: {
     "no-plusplus": "off",
-    "no-process-env": "warn",
   },
 };
